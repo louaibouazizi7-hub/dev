@@ -1,0 +1,4 @@
+fastapi>=0.118
+uvicorn[standard]>=0.30
+pymongo>=4.10
+pydantic>=2.12
